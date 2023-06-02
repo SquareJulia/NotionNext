@@ -13,7 +13,7 @@ const BLOG = {
   AUTHOR: 'xiaosiyier', // 作者
   BIO: '大四CS在读，向往wlb', // 作者简介
   // LINK: 'https://tangly1024.com', // 网站地址
-  LINK:'https://xiaosiyier.tech',
+  LINK: 'https://xiaosiyier.tech',
   KEYWORDS: 'Notion, 博客,technology,programming', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'xiaosiyier@outlook.com', // 邮箱

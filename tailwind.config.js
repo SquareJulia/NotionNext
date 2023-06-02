@@ -23,7 +23,7 @@ module.exports = {
       maxWidth: {
         side: '14rem'
       }
-    },
+    }
   },
   variants: {
     extend: {}

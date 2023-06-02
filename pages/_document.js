@@ -19,9 +19,10 @@ class MyDocument extends Document {
         </Head>
 
         <body className={'tracking-wider subpixel-antialiased bg-day dark:bg-night'}>
-            <Main />
-            <NextScript />
+          <Main />
+          <NextScript />
         </body>
+        <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2023001624号-1</a>
       </Html>
     )
   }
